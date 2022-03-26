@@ -1,0 +1,24 @@
+{
+  "response": {
+    "posts": [
+      {
+        "id": "blog1",
+        "title": "Dog",
+        "content": "Dogs are the sweetest living creature on this planet and they are humans best companion",
+        "likes": 48
+      },
+      {
+        "id": "blog2",
+        "title": "Food",
+        "content": "The essence of life is food each culture has inherited its own style of cooking",
+        "likes": 0
+      },
+      {
+        "id": "blog3",
+        "title": "Sports",
+        "content": "It isn’t a far drive for the Cinderella story Saint Peter’s Peacocks and their fans to Philly. Hopefully the fans come in bunches to give their team a lot of energy and a big lift against a very tall task in front of them (no not Zach Eidy)…beating Purdue. Their offense is s good. I’m not sure if Saint Peter’s will be able to hold up, but they did beat #2 Kentucky and #7 Murray State so we know they can pull off a major upset.",
+        "likes": 3
+      }
+    ]
+  }
+}
